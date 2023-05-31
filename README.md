@@ -1,10 +1,5 @@
----
-title: "Transit Cost"
-author: "Huma Meer"
-output: 
-  bookdown::html_document2:
-    number_sections: false
----
+# Analysis of Transit Infrastructure Cost in the US as Compared to Other Countries
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = F)
